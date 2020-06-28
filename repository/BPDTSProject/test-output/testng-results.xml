@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-28T23:58:36 BST" name="Default suite" finished-at="2020-06-28T23:58:41 BST" duration-ms="5106">
+    <groups>
+    </groups>
+    <test started-at="2020-06-28T23:58:36 BST" name="Default test" finished-at="2020-06-28T23:58:41 BST" duration-ms="5106">
+      <class name="bpdtsTest.TestBPDTS">
+        <test-method signature="getAllUsers_CheckSize_isEqualsto1000()[pri:0, instance:bpdtsTest.TestBPDTS@28975c28]" started-at="2020-06-28T23:58:36 BST" name="getAllUsers_CheckSize_isEqualsto1000" finished-at="2020-06-28T23:58:39 BST" duration-ms="3106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllUsers_CheckSize_isEqualsto1000 -->
+        <test-method signature="getCity_whenUsePathParam_thenOK_checkRsponseheadersifOk()[pri:0, instance:bpdtsTest.TestBPDTS@28975c28]" started-at="2020-06-28T23:58:39 BST" name="getCity_whenUsePathParam_thenOK_checkRsponseheadersifOk" finished-at="2020-06-28T23:58:39 BST" duration-ms="707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCity_whenUsePathParam_thenOK_checkRsponseheadersifOk -->
+        <test-method signature="getInstructions_checkResponseIsOk_contentLenght_equal281()[pri:0, instance:bpdtsTest.TestBPDTS@28975c28]" started-at="2020-06-28T23:58:39 BST" name="getInstructions_checkResponseIsOk_contentLenght_equal281" finished-at="2020-06-28T23:58:40 BST" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInstructions_checkResponseIsOk_contentLenght_equal281 -->
+        <test-method signature="getUserid_ifidparathisok()[pri:0, instance:bpdtsTest.TestBPDTS@28975c28]" started-at="2020-06-28T23:58:40 BST" name="getUserid_ifidparathisok" finished-at="2020-06-28T23:58:40 BST" duration-ms="397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserid_ifidparathisok -->
+        <test-method signature="testResponseHeaderData_IsCorrect()[pri:0, instance:bpdtsTest.TestBPDTS@28975c28]" started-at="2020-06-28T23:58:40 BST" name="testResponseHeaderData_IsCorrect" finished-at="2020-06-28T23:58:41 BST" duration-ms="611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResponseHeaderData_IsCorrect -->
+      </class> <!-- bpdtsTest.TestBPDTS -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
